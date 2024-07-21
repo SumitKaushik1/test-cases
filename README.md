@@ -1,4 +1,7 @@
 # test-cases
+
+these are coffee machine and the whatsapp test cases
+
   - COFFEE MACHINE	
     - TEST NUMBER 	TEST  CASES 
         1.	verify if the coffee vending machine is switched on<br>
