@@ -1,6 +1,6 @@
 # test-cases
 
-these are coffee machine and the whatsapp test cases
+these are coffee machine and the whatsapp test cases for practice
 
   - COFFEE MACHINE	
     - TEST NUMBER 	TEST  CASES 
